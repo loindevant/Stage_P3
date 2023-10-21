@@ -11,6 +11,10 @@
 # Contact
 Arnaud Perrin [+41 79 450 01 65](tel:+41 79 450 01 65) ou bien <a href="sms:+41794500165?body=Je%viendrai">Envoyer un SMS</a>
 
+Ou bien [email](mailto:loindevant@me.com)
+
+
+
 
 
 

@@ -6,5 +6,4 @@
 
 Liens vers les canevas et les annexes de chaque leçon:
 
-- [2023-20-21_Math](https://loindevant.github.io/Stage_P3/2023-20-21_Math)
-- [Leçon du 19.12.2023](https://loindevant.github.io/Stage_P3/2023-11-x_Lecon_x)
+- [ACM 31.10.23](https://loindevant.github.io/Stage_P3/ACM/2023-10-31)

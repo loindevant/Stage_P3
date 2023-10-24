@@ -40,7 +40,7 @@
 
 | Durée | Forme | Rôle ens. | Intentions | Moyens |
 |:----- |:----- |:--------- |:---------- |:------ |
-| 10 min | Plenum |  Accompagnement |  Retour sur les objectifs de la leçon     |  –  |
+| 10 min | Plenum |  Accompagner |  Retour sur les objectifs de la leçon     |  –  |
 
 ...
 

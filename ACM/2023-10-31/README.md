@@ -34,8 +34,8 @@
 | 45 min | Libre (indiv, duo) |   Accompagner   |  Affiner les pré-conceptions, essayer des techniques | Quelques ordinateurs si dispo, cartons, ficelle, ciseaux, crayons, colle chaude...  |
 
 - Les élèves confrontent leurs conceptions avec la réalité, en se documentant sur internet
-- En commun puis individuellement, ils explorent des idées pour illustrer une procession, un cheminement (donc ce que la poya et l'Avent on en commun):  jeu de l'oie, frise temporelle, calendrier, labyrinthe, parcours sur une carte, graphe en noeuds et arrêtes, . On n'aborde pas encore la question des techniques de réalisation (dessin, découpage, BD)
-- Ils explorent ensuite, par manipulation de carton, ficelle, ciseaux, diverses possibilités de réaliser l'illustration de leur choix avec
+- En commun puis individuellement, ils explorent des idées pour illustrer une procession, un cheminement (donc ce que la poya et l'Avent ont en commun):  jeu de l'oie, frise temporelle, calendrier, labyrinthe, parcours sur une carte, graphe en noeuds et arrêtes.
+- Ils explorent ensuite, par manipulation de carton, ficelle, ciseaux, diverses possibilités de réaliser un cheminement. Peu importe à ce stade qu'il y ait ou non un rapport avec la poya et/ou l'Avent.
 
 ## Etape 3: Fermeture
 

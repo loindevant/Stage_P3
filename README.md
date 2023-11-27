@@ -18,6 +18,9 @@
 	- [ ] Vendredi 24.11
 - Filé
 	- [ ] Mardi 28.11
+	- 
+	- maths
+	- gym
 	- [ ] Mardi 5.12
 	- [ ] Mardi 12.12
 
